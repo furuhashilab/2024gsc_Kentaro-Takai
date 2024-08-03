@@ -1,4 +1,4 @@
-# Kentaro-summar-presentation2024
+# 2024gsc_Kentaro Takai
 2024年度ゼミ論「青山学院大学相模原キャンパス再現プロジェクト in Minecraft」
 
 青山学院大学 地球社会共生学部 地球社会共生学科
